@@ -1,0 +1,8 @@
+[pidora-vmiller@pidora ~]$ ls
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+[pidora-vmiller@pidora ~]$ cd Downloads/
+[pidora-vmiller@pidora Downloads]$ ls
+jedit5.3.0install.jar
+[pidora-vmiller@pidora Downloads]$ java jar jedit5.3.0install.jar 
+Error: Could not find or load main class jar
+[pidora-vmiller@pidora Downloads]$ java -jar jedit5.3.0install.jar 
